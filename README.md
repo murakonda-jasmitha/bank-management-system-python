@@ -73,8 +73,7 @@ bank-management-system-python/
 The following screenshots provide a visual overview of the Bank Management System application and demonstrate its core banking functionalities.
 
 ### 🏠 Home Page
-
-![Home Page](images/homepage.png)
+![Home Page](images/home_page.png)
 
 ### 👤 User Registration
 
@@ -101,7 +100,7 @@ The following screenshots provide a visual overview of the Bank Management Syste
 ![Balance](images/checkbalance.png)
 
 ### 📜 Transaction History
-![Transaction History](images/transactions.png)
+![Transaction History](images/transcations.png)
 
 ### 🔑 Unlock Account
 
