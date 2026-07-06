@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Backup files
+users_backup.json
+transactions_backup.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
