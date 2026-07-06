@@ -70,7 +70,42 @@ bank-management-system-python/
 
 ## 📸 Project Screenshots
 
-Project screenshots demonstrating the application's workflow and banking operations will be added in the **images/** folder.
+The following screenshots provide a visual overview of the Bank Management System application and demonstrate its core banking functionalities.
+
+### 🏠 Home Page
+
+![Home Page](images/homepage.png)
+
+### 👤 User Registration
+
+![Registration](images/registration_page.png)
+
+### 🔐 User Login
+
+![Login](images/login_page.png)
+
+### 💰 Deposit Money
+
+![Deposit](images/deposit.png)
+
+### 💸 Withdraw Money
+
+![Withdraw](images/withdraw_money.png)
+
+### 🔄 Account-to-Account Money Transfer
+
+![Transfer](images/transfer_money.png)
+
+### 💳 Balance Enquiry
+
+![Balance](images/checkbalance.png)
+
+### 📜 Transaction History
+![Transaction History](images/transactions.png)
+
+### 🔑 Unlock Account
+
+![Unlock Account](images/unlock_account.png)
 
 ---
 
